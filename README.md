@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0914xc&show_icons=true&theme=codeSTACKr" alt="github stats" />
+
+
+### Hi there I'm [0914xc](https://blog.weixiaochen.cn)👋
 
 <!--
 **0914xc/0914xc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
